@@ -64,7 +64,7 @@
 
 ### ما المناهج التي يمكن البدأ بها ؟
 البداية بمنهج و ليس بلغة مهم جدا و يوجد طريقين لهذا المسار الاول هو  
-[cs50](https://github.com/ossu/computer-science)
+[cs50](https://www.youtube.com/playlist?list=PL7cmIFofq7xHOKUpuU66uYiXanbD9Mp-O)
 و هو مقدمة في علوم الحاسب يتيح لك معرفة جيدة ببعض المفاهيم الاساسية مثل الخوارزميات و هياكل البيانات و غيرها.
 
 و بعد الانتهاء من هذا المسار يجب التركيز علي حل المشكلات في مواقع مثل 
@@ -75,7 +75,7 @@
 
 
 المسار الثاني هوة 
-[ossu](https://www.youtube.com/playlist?list=PL7cmIFofq7xHOKUpuU66uYiXanbD9Mp-O)
+[ossu](https://github.com/ossu/computer-science)
 لاي شخص مهتم بتعلم علوم الحاسب بشكل اعمق .
 
 هذا المسار متوقع ان يقوم الشخص الذي يتبعه بالانتهاء منه في عامين لذلك هوة اطول من المسار السابق
